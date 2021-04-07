@@ -1,0 +1,3 @@
+1. Free hosting services provider: https://byet.host/ (https://byethost.com)
+2. cPanel Link: http://cpanel.byethost.com/panel/index.php
+3. File Manager: https://filemanager.ai/new/#
